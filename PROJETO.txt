@@ -1,0 +1,16 @@
+PROJETO INDICIPLINAR
+
+
+
+1º) Qual o problema que vocês irão resolver?
+R: Resolver os horários de viaje de uma cidade para outra, no horário correto e saber se o carro que vai sair lotado ou não e se tem encomendas e por fim qual é o motorista.
+
+2º) Porque ele é importante?
+R: Porque pagar uma passagem de ônibus para outra cidade ou estado está caro e se for levar bagagem ou mandar encomendas fica muito mais caros. E se for viajar dentro do estado usando vans mesmo que seja o seu trajeto curto você tem que pagar a passagem toda e além disso tem que pegar outra van para chegar no seu destino.
+
+3º) Quem são essas pessoas que sofrem esses problemas?
+ Faixa etária, gênero, classe social?
+R: Todos.
+
+4º) Quem são esses concorrentes?
+R: Easy taxi, me leva e 99 taxis. 
